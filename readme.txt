@@ -2,18 +2,18 @@
 Contributors: d3
 Donate link: https://www.derved.com/
 Tags: d3, d3-w3css
-Requires at least: 6.0
-Tested up to: 6.0
+Requires at least: 5.0
+Tested up to: 6.1.1
 Stable tag: 0.1
 Requires PHP: 8.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-Init W3.CSS to Wordpress.
+Init W3.CSS to WordPress.
 
 == Description ==
 
-Init W3.CSS to Wordpress. So you can use all W3.CSS classes in your theme and in your preferred editor.
+Init W3.CSS to WordPress. So you can use all W3.CSS classes in your theme and in your preferred editor.
 
 == Frequently Asked Questions ==
 
